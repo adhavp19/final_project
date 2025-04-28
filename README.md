@@ -1,1 +1,1 @@
-Run "python3 final_project.py" to display output
+Run "python3 final_project.py" to display outputs
